@@ -40,6 +40,7 @@ Unlike traditional transfer learning approaches where **VGG16 is entirely frozen
    - If VGG16 is frozen, the added **Conv2D and Dense layers** must adapt to VGG16’s fixed outputs.
    - **If the dataset distribution is different, these layers struggle to learn meaningful representations.**
 
+---
 
 ### **1. General Information**  
 

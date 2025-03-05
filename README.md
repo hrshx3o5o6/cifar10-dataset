@@ -4,7 +4,7 @@
 
 # Unique Methodology: Optimizing VGG16 for Small-Scale Image Classification  
 
-### 🔥 **How My Approach is Different**
+###  **How My Approach is Different**
 Unlike traditional transfer learning approaches where **VGG16 is entirely frozen**, my methodology **fine-tunes specific layers** of VGG16 to better adapt to smaller image datasets (**32×32 resolution**).  
 
 - **What makes this approach unique?**
